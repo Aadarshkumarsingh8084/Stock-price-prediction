@@ -1,0 +1,134 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+}
+
+/* Navbar */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #333;
+    padding: 15px 50px;
+    color: white;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.btn {
+    height: 20px;
+    width:200px;
+    position:absolute;
+    top:70%;
+    left: 40%;
+    background: #0c04aadc;
+    padding: 10px 5px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: rgb(8, 12, 235);
+}
+
+/* Hero Section */
+.hero {
+    height: 80vh;
+    background: url('https://img.freepik.com/free-vector/gradient-stock-market-concept_23-2149166910.jpg?t=st=1742496748~exp=1742500348~hmac=c37ca0d1ed3f49f30b594e4fe9ba1f76e328423f26e8bf082e7b3e45213fec0a&w=1380') no-repeat center center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.hero-content h1 {
+    font-size: 48px;
+}
+
+.hero-content p {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.hero .btn {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+/* Features Section */
+.features {
+    text-align: center;
+    padding: 50px;
+    background: white;
+}
+
+.features h2 {
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.feature-cards {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card {
+    width: 300px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card h3 {
+    font-size: 22px;
+    color: #333;
+}
+
+/* Footer */
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#stock-ticker-container {
+    background: #222;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 16px;
+}
+
+.stock {
+    margin: 0 15px;
+    font-weight: bold;
+}
