@@ -2,7 +2,7 @@
 Live graph
 <h1>Summary of Stock price prediction</h1>
 
-![image alt](https://github.com/Aadarshkumarsingh8084/Stock-price-prediction/blob/e030a1f50d1b96302c7c118d1098f4ebeacdfd78/Screenshot%202025-03-21%20003547.png)
+![image alt](https://github.com/Aadarshkumarsingh8084/Stock-price-prediction/blob/7d6096792e1e3034a7bb0d4d7b70e77fc3863993/Screenshot%202025-04-05%20123039.png)
 
 <p>Stock price prediction involves forecasting the future value of a stock based on historical data, market trends, and various influencing factors. It is widely used in financial markets to assist traders and investors in making informed decisions.</p>
 
