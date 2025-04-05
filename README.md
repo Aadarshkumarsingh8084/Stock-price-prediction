@@ -15,4 +15,6 @@ Technical Analysis – Uses historical price and volume data to identify pattern
 
 <p>With advancements in technology, machine learning (ML) and deep learning (DL) techniques, such as Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and Linear Regression, have significantly improved prediction accuracy. These models analyze large datasets, detect complex patterns, and provide better forecasting insights.</p>
 
+![image alt](https://github.com/Aadarshkumarsingh8084/Stock-price-prediction/blob/969240cb7c5ee8acbc49de83bcac78885f1ce7ee/Screenshot.png)
+
 <p>However, stock markets are influenced by unpredictable factors like economic policies, geopolitical events, and investor sentiment, making stock price prediction inherently uncertain. While AI-driven models enhance decision-making, no prediction method guarantees absolute accuracy.Would you like a more technical explanation or a breakdown of specific prediction techniques?</p>
