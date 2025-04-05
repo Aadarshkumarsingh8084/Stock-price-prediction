@@ -1,4 +1,3 @@
-/* General Styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -42,7 +41,7 @@ nav ul li a {
     width:200px;
     position:absolute;
     top:70%;
-    left: 40%;
+    left: 42%;
     background: #0c04aadc;
     padding: 10px 5px;
     border-radius: 20px;
@@ -57,7 +56,7 @@ nav ul li a {
 /* Hero Section */
 .hero {
     height: 80vh;
-    background: url('https://img.freepik.com/free-vector/gradient-stock-market-concept_23-2149166910.jpg?t=st=1742496748~exp=1742500348~hmac=c37ca0d1ed3f49f30b594e4fe9ba1f76e328423f26e8bf082e7b3e45213fec0a&w=1380') no-repeat center center/cover;
+    background: url('https://wallpaperbat.com/img/725426-stock-market-picture-4500x3375px-desktop-background.jpg') no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -72,6 +71,10 @@ nav ul li a {
 .hero-content p {
     font-size: 20px;
     margin-top: 10px;
+    color: white;
+    padding: 0;
+    background-color: cornflowerblue;
+    margin: 0;
 }
 
 .hero .btn {
@@ -131,4 +134,28 @@ footer {
 .stock {
     margin: 0 15px;
     font-weight: bold;
+}
+
+div h1 {
+    background: #323fc7dc;
+    padding: 10px 5px;
+    border-radius: 20px;
+    color: white;
+}
+
+.btnn {
+    height: 20px;
+    width:200px;
+    position:absolute;
+    top:67%;
+    left: 42%;
+    background: #0c04aadc;
+    padding: 10px 5px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.btnn:hover {
+    background-color: rgb(8, 12, 235);
 }
