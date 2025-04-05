@@ -1,0 +1,134 @@
+.pricing-page {
+    text-align: center;
+    padding: 50px 20px;
+    background: #f9f9f9;
+}
+
+.pricing-page h1 {
+    font-size: 36px;
+    color: #333;
+}
+
+.pricing-page p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+/* Pricing Grid */
+.pricing-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+/* Pricing Card */
+.pricing-card {
+    background: white;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+    text-align: center;
+    border-top: 5px solid #ccc;
+}
+
+.pricing-card h3 {
+    font-size: 24px;
+    color: #222;
+}
+
+.pricing-card .price {
+    font-size: 28px;
+    color: #ff6b6b;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.pricing-card .price span {
+    font-size: 16px;
+    color: #666;
+}
+
+.pricing-card ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+.pricing-card ul li {
+    font-size: 16px;
+    padding: 8px 0;
+    color: #444;
+}
+
+/* Highlight Popular Plan */
+.popular {
+    border-top: 5px solid #ff6b6b;
+    background: #ffefef;
+}
+
+/* Hover Effect */
+.pricing-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Call-to-Action Section */
+.cta {
+    text-align: center;
+    padding: 50px;
+    background: #ff6b6b;
+    color: white;
+}
+
+.cta h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.cta .btn {
+    background: white;
+    color: #ff6b6b;
+    padding: 12px 24px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background 0.3s;
+}
+
+.cta .btn:hover {
+    background: #fff3f3;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #333;
+    padding: 15px 50px;
+    color: white;
+}
+
