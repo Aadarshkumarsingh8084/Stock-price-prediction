@@ -1,6 +1,6 @@
 # Stock-price-prediction
 Live graph
-<h1>Summary of Stock price predictio</h1>
+<h1>Summary of Stock price prediction</h1>
 
 ![image alt](https://github.com/Aadarshkumarsingh8084/Stock-price-prediction/blob/7d6096792e1e3034a7bb0d4d7b70e77fc3863993/Screenshot%202025-04-05%20123039.png)
 
