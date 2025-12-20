@@ -13,7 +13,7 @@ Technical Analysis – Uses historical price and volume data to identify pattern
 
 ![image alt](https://github.com/Aadarshkumarsingh8084/Stock-price-prediction/blob/c36e376501d6e62433c8ebee632b2ea9c813cec5/Screenshot%202025-03-21%20003707.png)
 
-<p>With advancements in technology, machine learning (ML) and deep learning (DL) techniques, such as Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and Linear Regression, have significantly improved prediction accuracy. These models analyze large datasets, detect complex patterns, and provide better forecasting insights. </p>
+<p>With advancements in technology, machine learning (ML) and deep learning (DL) techniques, such as Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and Linear Regression, have significantly improved prediction accuracy. These models analyze large datasets, detect complex patterns, and provide better forecasting insights </p>
 
 ![image alt](https://github.com/Aadarshkumarsingh8084/Stock-price-prediction/blob/969240cb7c5ee8acbc49de83bcac78885f1ce7ee/Screenshot.png)
 
